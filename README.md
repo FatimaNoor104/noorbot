@@ -44,5 +44,23 @@ All user data is saved in the noorbot_data/ folder as JSON files:
 
 ---
 
+### App interface
+- **Chat**
+    - All previous conversations are saved and displayed in the left sidebar for quick access.
+    - Users can select any chat to view, continue, or delete.
+
+    <img width="1919" height="976" alt="Screenshot 2025-07-27 010931" src="https://github.com/user-attachments/assets/0faf1e63-1eea-4b37-bee3-f9c619785b81" />
+
+- **Dua, Affirmations, Journals, Gratitude Pages**
+    - All sections have a consistent layout.
+    - Users can:
+        - Add new entries with optional titles.
+        - Mark entries as favorite.
+        - Edit or delete any entry.
+
+    <img width="1918" height="968" alt="Screenshot 2025-07-27 010912" src="https://github.com/user-attachments/assets/a6aae872-f16a-420e-9f14-a06f44fea4f9" />
+
+
 ## Developer
-Created by [Fatima Noor](https://www.linkedin.com/in/fatima-nur/)
+
+- [Fatima Noor](https://www.linkedin.com/in/fatima-nur/)
