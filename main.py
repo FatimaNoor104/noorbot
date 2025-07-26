@@ -150,7 +150,7 @@ def render_section(section):
             title = st.text_input("Title", key=f"title_{section}")
             content = st.text_area("Content", key=f"content_{section}")
             if st.form_submit_button("Save"):
-                if title and content:
+                if content:
                     save_entry(section, title, content)
                     st.session_state[f'show_form_{section}'] = False
                     st.rerun()
